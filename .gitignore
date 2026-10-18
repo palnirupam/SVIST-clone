@@ -3,5 +3,6 @@ raw_source.html
 cleaned_test.html
 assemble.py
 fix_links.py
+build_apply.py
 .playwright-mcp/
 *.log
