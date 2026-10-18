@@ -5,5 +5,7 @@ assemble.py
 fix_links.py
 build_apply.py
 clone_complete_site.py
+check_pattern.py
+fix_apply_form.py
 .playwright-mcp/
 *.log
