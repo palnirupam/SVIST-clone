@@ -4,5 +4,6 @@ cleaned_test.html
 assemble.py
 fix_links.py
 build_apply.py
+clone_complete_site.py
 .playwright-mcp/
 *.log
