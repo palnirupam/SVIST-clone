@@ -1,0 +1,6 @@
+# Temporary scrap and test files
+raw_source.html
+cleaned_test.html
+assemble.py
+.playwright-mcp/
+*.log
