@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svist-clone.vercel.app/sitemap.xml
